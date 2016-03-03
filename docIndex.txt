@@ -1,0 +1,6 @@
+DocID_0	C:\Users\Administrator\Java\documents\math1.txt
+DocID_1	C:\Users\Administrator\Java\documents\math2.txt
+DocID_2	C:\Users\Administrator\Java\documents\math3.txt
+DocID_3	C:\Users\Administrator\Java\documents\sports1.txt
+DocID_4	C:\Users\Administrator\Java\documents\sports2.txt
+DocID_5	C:\Users\Administrator\Java\documents\sports3.txt

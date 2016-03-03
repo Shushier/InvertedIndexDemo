@@ -1,0 +1,235 @@
+100	{DocID_1=1}
+2	{DocID_0=1}
+3	{DocID_0=1}
+300	{DocID_1=1}
+4	{DocID_0=1}
+5	{DocID_1=1}
+6	{DocID_2=1}
+7	{DocID_2=1}
+800	{DocID_1=1}
+a	{DocID_1=1, DocID_3=1, DocID_4=1, DocID_5=1}
+abstraction	{DocID_1=1}
+accomplishments	{DocID_5=1}
+according	{DocID_4=1}
+activities	{DocID_3=1, DocID_4=1}
+activity	{DocID_1=1, DocID_3=1}
+ad	{DocID_1=1}
+albert	{DocID_2=1}
+an	{DocID_3=1}
+and	{DocID_0=1, DocID_1=1, DocID_2=1, DocID_3=1, DocID_4=1, DocID_5=1}
+announced	{DocID_5=1}
+appeared	{DocID_1=1}
+appropriately	{DocID_0=1}
+are	{DocID_2=1, DocID_3=1, DocID_4=1, DocID_5=1}
+arguments	{DocID_1=1}
+as	{DocID_1=1, DocID_2=1, DocID_3=1, DocID_4=1}
+at	{DocID_5=1}
+axioms	{DocID_0=1}
+back	{DocID_1=1}
+bc	{DocID_1=1}
+be	{DocID_3=1, DocID_4=1}
+beauty	{DocID_4=1}
+been	{DocID_1=1}
+benjamin	{DocID_2=1}
+board	{DocID_3=1}
+body	{DocID_4=1}
+building	{DocID_4=1}
+by	{DocID_0=1, DocID_3=1}
+calculation	{DocID_1=1}
+called	{DocID_2=1}
+can	{DocID_3=1}
+card	{DocID_3=1}
+catch	{DocID_3=1}
+certain	{DocID_2=1}
+change	{DocID_0=1}
+china	{DocID_1=1}
+chosen	{DocID_0=1}
+citation	{DocID_3=1}
+classified	{DocID_3=1}
+commitment	{DocID_3=1}
+competitive	{DocID_3=1}
+conclusions	{DocID_2=1}
+condition	{DocID_5=1}
+conjectures	{DocID_0=1}
+continued	{DocID_1=1}
+continues	{DocID_1=1}
+contrast	{DocID_4=1}
+counting	{DocID_1=1}
+creations	{DocID_2=1}
+criteria	{DocID_4=1}
+crossing	{DocID_4=1}
+customs	{DocID_3=1}
+day	{DocID_1=1}
+debate	{DocID_2=1}
+deduction	{DocID_0=1}
+define	{DocID_4=1}
+defined	{DocID_3=1, DocID_4=1}
+definitions	{DocID_0=1}
+degree	{DocID_4=1}
+develop	{DocID_1=1}
+discoveries	{DocID_1=1}
+discovery	{DocID_1=1}
+diving	{DocID_4=1}
+do	{DocID_2=1}
+does	{DocID_4=1}
+draws	{DocID_2=1}
+dressage	{DocID_4=1}
+einstein	{DocID_2=1}
+elements	{DocID_1=1}
+entertaining	{DocID_3=1}
+entertainment	{DocID_5=1}
+establish	{DocID_0=1}
+euclid	{DocID_1=1}
+events	{DocID_4=1}
+evolved	{DocID_1=1}
+example	{DocID_1=1, DocID_3=1}
+exercise	{DocID_5=1}
+exist	{DocID_1=1, DocID_2=1}
+fact	{DocID_5=1}
+failures	{DocID_5=1}
+fair	{DocID_3=1}
+far	{DocID_1=1, DocID_2=1}
+figure	{DocID_4=1}
+first	{DocID_1=1, DocID_4=1}
+for	{DocID_1=1, DocID_3=1, DocID_5=1}
+forms	{DocID_3=1}
+formulate	{DocID_0=1}
+from	{DocID_0=1, DocID_1=1}
+fun	{DocID_5=1}
+games	{DocID_3=1}
+goals	{DocID_4=1}
+good	{DocID_5=1}
+governed	{DocID_3=1}
+greek	{DocID_1=1}
+hand	{DocID_2=1}
+has	{DocID_1=1}
+have	{DocID_4=1}
+highest	{DocID_5=1}
+however	{DocID_4=1, DocID_5=1}
+human	{DocID_1=1, DocID_2=1}
+in	{DocID_1=1, DocID_3=1, DocID_4=1, DocID_5=1}
+increase	{DocID_1=1}
+india	{DocID_1=1}
+innovations	{DocID_1=1}
+interacting	{DocID_1=1}
+involvement	{DocID_3=1}
+is	{DocID_0=1, DocID_2=1, DocID_3=1, DocID_4=1, DocID_5=1}
+it	{DocID_3=1}
+jogging	{DocID_3=1}
+judged	{DocID_4=1}
+just	{DocID_5=1}
+kept	{DocID_5=1}
+laws	{DocID_2=1}
+led	{DocID_1=1}
+levels	{DocID_5=1}
+line	{DocID_4=1}
+logical	{DocID_1=1}
+major	{DocID_5=1}
+mathematical	{DocID_1=1, DocID_2=1}
+mathematician	{DocID_2=1}
+mathematicians	{DocID_0=1}
+mathematics	{DocID_0=1, DocID_1=1, DocID_2=1}
+means	{DocID_3=1}
+measurement	{DocID_1=1}
+mental	{DocID_3=1}
+mind	{DocID_3=1}
+most	{DocID_1=1, DocID_5=1}
+motions	{DocID_1=1}
+muslim	{DocID_1=1}
+naturally	{DocID_2=1}
+necessary	{DocID_2=1}
+need	{DocID_5=1}
+needed	{DocID_3=1}
+new	{DocID_0=1, DocID_1=1}
+news	{DocID_5=1}
+non	{DocID_3=1}
+not	{DocID_2=1, DocID_4=1}
+notably	{DocID_1=1}
+numbers	{DocID_2=1}
+objective	{DocID_3=1}
+objects	{DocID_1=1, DocID_2=1}
+of	{DocID_0=1, DocID_1=1, DocID_2=1, DocID_3=1, DocID_4=1, DocID_5=1}
+often	{DocID_4=1, DocID_5=1}
+olympic	{DocID_3=1}
+on	{DocID_2=1}
+or	{DocID_2=1, DocID_3=1, DocID_4=1, DocID_5=1}
+organized	{DocID_3=1}
+other	{DocID_2=1, DocID_4=1}
+out	{DocID_0=1}
+over	{DocID_2=1}
+pageants	{DocID_4=1}
+patterns	{DocID_0=1}
+peirce	{DocID_2=1}
+people	{DocID_5=1}
+performance	{DocID_4=1}
+physical	{DocID_1=1, DocID_3=1, DocID_4=1, DocID_5=1}
+play	{DocID_3=1}
+played	{DocID_5=1}
+playing	{DocID_3=1}
+points	{DocID_2=1}
+practical	{DocID_1=1}
+present	{DocID_1=1}
+primarily	{DocID_3=1}
+professional	{DocID_5=1}
+quantity	{DocID_0=1}
+rapid	{DocID_1=1}
+rate	{DocID_1=1}
+reality	{DocID_2=1}
+reasoning	{DocID_1=1}
+recognized	{DocID_3=1}
+records	{DocID_1=1, DocID_5=1}
+recreation	{DocID_3=1}
+refer	{DocID_2=1}
+renaissance	{DocID_1=1}
+requiring	{DocID_3=1}
+result	{DocID_4=1}
+rigorous	{DocID_0=1, DocID_1=1}
+rules	{DocID_3=1}
+s	{DocID_1=1}
+science	{DocID_2=1}
+scientific	{DocID_1=1}
+scoring	{DocID_4=1}
+seek	{DocID_0=1}
+set	{DocID_3=1}
+shapes	{DocID_1=1}
+shown	{DocID_4=1}
+simple	{DocID_5=1}
+skating	{DocID_4=1}
+skill	{DocID_4=1}
+skillful	{DocID_3=1}
+skills	{DocID_3=1}
+some	{DocID_3=1, DocID_4=1}
+source	{DocID_5=1}
+space	{DocID_0=1}
+sport	{DocID_3=1, DocID_4=1, DocID_5=1}
+sports	{DocID_3=1, DocID_4=1, DocID_5=1}
+stated	{DocID_2=1}
+stay	{DocID_5=1}
+strategy	{DocID_3=1}
+structure	{DocID_0=1}
+study	{DocID_0=1, DocID_1=1}
+such	{DocID_2=1, DocID_3=1, DocID_4=1}
+systematic	{DocID_1=1}
+that	{DocID_1=1, DocID_2=1, DocID_5=1}
+the	{DocID_0=1, DocID_1=1, DocID_2=1, DocID_4=1, DocID_5=1}
+there	{DocID_2=1}
+they	{DocID_2=1}
+this	{DocID_4=1}
+through	{DocID_1=1}
+to	{DocID_1=1, DocID_2=1, DocID_4=1, DocID_5=1}
+truth	{DocID_0=1}
+until	{DocID_1=1}
+updated	{DocID_5=1}
+use	{DocID_1=1}
+usually	{DocID_3=1}
+well	{DocID_4=1}
+when	{DocID_1=1}
+where	{DocID_4=1}
+whether	{DocID_2=1}
+which	{DocID_3=1}
+while	{DocID_5=1}
+widely	{DocID_5=1}
+winner	{DocID_3=1}
+with	{DocID_1=1, DocID_4=1}
+world	{DocID_1=1}
+written	{DocID_1=1}
